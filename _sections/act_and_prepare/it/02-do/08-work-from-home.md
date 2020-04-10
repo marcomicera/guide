@@ -16,4 +16,4 @@ Al giorno d'oggi, ottimi software rendono la collaborazione a distanza più faci
 -   Slack/Gitter (messaggistica istantanea gratuita);
 -   anche Skype è gratuito e funziona molto bene per videoconferenze con 2 persone alla volta.
 
-Fai una prova generale. Guarda cosa manca in modo da farti trovare pronto per quando non sarà facoltativo. Alcune risorse [qui](https://twitter.com/BadassBowden/status/1235793674174435328) per persone con ADHD che lavorano da casa per la prima volta.
+Fai una prova generale. Guarda cosa manca in modo da farti trovare pronto per quando non sarà facoltativo. Alcune risorse [qui](https://twitter.com/BadassBowden/status/1235793674174435328) per persone affette da ADHD che lavorano da casa per la prima volta.

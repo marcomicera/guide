@@ -1,5 +1,5 @@
 {:.only_toc}
-### Non stringere la mano.
+### Non stringere la mano
 
 {:.dont.no_toc}
 ### Non stringere la mano; cerca di essere creativo con saluti senza contatto
